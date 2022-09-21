@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+html {
+  box-sizing: border-box;
+  margin: 0;
+
+}
+
+body {
+  background-color: #FFB1D9;
+  font-family: 'EB Garamond', serif;
+  color:#ffffff;
+  font-size: 20px;
+}
+
+#joke-button{
+  background-color:#FF78BC;
+  outline: none;
+  cursor: pointer;
+  color:#ffffff;
+  border: none;
+  border-radius: 10px;
+}
+
+#voice-select{
+  color:#ffffff;
+  background-color: #FFB1D9;
+  outline: none !important;
+  border:1px solid #007BFF;
+}
